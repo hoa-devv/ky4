@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="khoaluan:war">
+    <output-path>$PROJECT_DIR$/cgv-web-master/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>khoaluan</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="khoaluan.war">
+      <element id="artifact" artifact-name="khoaluan:war exploded" />
+    </root>
+  </artifact>
+</component>
