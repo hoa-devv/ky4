@@ -1,0 +1,41 @@
+.form-login{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+}
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ff1e2c;
+    margin-right: 190px;
+    margin-bottom: 10px;
+    height: 50px;
+    margin-top: 15px;
+    text-align: center;
+}
+.form-login{
+    margin-left: 200px;
+    width: 500px;
+    color: #0b080c;
+}
+
+.btn-default{
+    border-radius: 5px;
+    border-color: #e1eaf0;
+    background-color: #F7665E;
+    width: 200px;
+    margin-left: 170px;
+    margin-bottom: 15px;
+
+}
+.alink{
+    margin-left: 240px;
+}
+hr{
+    width: 200px;
+    margin-top: 5px;
+    height: 50px;
+    margin-left: 170px;
+    color: #14bdee;
+}
+#chu{
+    color:white;
+}

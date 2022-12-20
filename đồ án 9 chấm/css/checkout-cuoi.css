@@ -1,0 +1,201 @@
+.product_cart .order-table1 li:first-child{
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 20px;
+    padding-top: 0;
+    color: #0b080c;
+
+}
+.product_cart .order-table1 li.tb-normal{
+    font-weight: 400;
+    color: #0b080c;
+}
+.product_cart .order-table1 li span{
+    float: right;
+}
+.sp1{
+    margin-top: 30px;
+}
+.product_cart .order-table1 li {
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 5px;
+    padding-top: 30px;
+    font-size: 16px;
+}
+.product_cart{
+    height: 730px;
+}
+.contact_form
+{
+    padding-right: 0;
+}
+.comment_form
+{
+    margin-top: 35px;
+}
+.comment_form > div:not(:last-child)
+{
+    margin-bottom: 25px;
+}
+.row50{
+    color: #252525;
+    font-size: 16px;
+    border: 2px solid #ebebeb;
+    padding: 14px 20px;
+    background: #f3f3f3;
+    text-align: center;
+    width: 500px;
+    margin-top: 18px;
+    margin-left: 290px;
+
+}
+.row50 a:hover{
+    color: red;
+}
+.col50{
+    width: auto;
+    color: #252525;
+    font-size: 16px;
+    background: #f3f3f3;
+    float: right;
+    bottom:60px;
+    margin-right: 350px;/* sửa 490-350*/
+    margin-top: 5px;
+}
+.contact_info_title
+{
+    font-family: 'Josefin Sans',sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #384158;
+
+}
+.contact_info_location_title
+{
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #384158;
+}
+.contact_info_location_title
+{
+    font-size: 16px;
+}
+.product_cart{
+    border: 2px solid #ebebeb;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 22px;
+    padding-bottom: 35px;
+}
+.form_title
+{
+    font-size: 16px;
+    font-weight: 400;
+    color: #384158;
+    margin-bottom: 12px;
+}
+.comment_input {
+    width: 100%;
+    height: 46px;
+    border: solid 1px #d9d9d9;
+    border-radius: 3px;
+    padding-left: 19px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #2c3145;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+    text-shadow: rgb(0 0 0 / 1%) 0 0 1px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+    text-shadow: rgb(0 0 0 / 1%) 0 0 1px;
+    color: #384158;
+    margin-bottom: 0;
+}
+h4 {
+    font-size: 18px;
+}
+.fa-cc-visa:before {
+    content: "\f1f0";
+}
+.fa-cc-amex:before {
+    content: "\f1f3";
+}
+.fa-cc-mastercard:before {
+    content: "\f1f1";
+}
+.fa-cc-discover:before {
+    content: "\f1f2";
+}
+h5 {
+    display: block;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 15px;
+}
+/*.iconcart {*/
+/*    margin-top: 10px;*/
+/*}*/
+/*div {*/
+/*    display: block;*/
+/*    position: relative;*/
+/*    -webkit-box-sizing: border-box;*/
+/*    -moz-box-sizing: border-box;*/
+/*    box-sizing: border-box;*/
+/*    border-radius: 5px;*/
+/*}*/
+.contact_info_container
+{
+    margin-top: 100px;
+}
+/*div {*/
+/*    display: block;*/
+/*    position: relative;*/
+/*    -webkit-box-sizing: border-box;*/
+/*    -moz-box-sizing: border-box;*/
+/*    box-sizing: border-box;*/
+/*    border-radius: 5px;*/
+/*}*/
+.comment_input1 {
+    border: solid 1px #d9d9d9;
+    border-radius: 5px;
+    padding-left: 19px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #2c3145;
+    width: 500px;
+    height: 55px;
+    background-color: #f3f3f3;
+    text-align: center;
+}
+button, input {
+    overflow: visible;
+}
+a:-webkit-any-link {
+    /*color: -webkit-link;*/
+    cursor: pointer;
+    /*text-decoration: underline;*/
+}
